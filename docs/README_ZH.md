@@ -3,7 +3,7 @@
 
 # FusionSky
 
-适用于 MadOut2 PC 9.4 / BigCityLegacy 的动态天空插件，提供增强的光照效果和灵活的自定义设置。
+适用于 MadOut2 PC 9.4 / [BigCityLegacy](https://github.com/LxgacyTeam/BigCityLegacy) 的动态天空插件，提供增强的光照效果和灵活的自定义设置。
 
 在游戏过程中按 **Alt + G** 打开设置界面。
 
@@ -23,7 +23,7 @@
 
 运行本插件需要 BigCityLegacy 1.4.2 或更高版本。支持 Windows 和 Linux 版本的游戏。
 
-从 Releases 页面下载插件压缩包，并将其解压到游戏根目录。
+从 [Releases](https://github.com/LxgacyTeam/FusionSky/releases) 页面下载插件压缩包，并将其解压到游戏根目录。
 
 解压后，`FusionSky.dll` 文件应位于 `BepInEx\plugins\FusionSky` 路径下。
 

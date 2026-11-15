@@ -3,7 +3,7 @@
 
 # FusionSky
 
-Dynamic sky with enhanced lighting and extensive customization options for MadOut2 PC 9.4 / BigCityLegacy.
+Dynamic sky with enhanced lighting and extensive customization options for MadOut2 PC 9.4 / [BigCityLegacy](https://github.com/LxgacyTeam/BigCityLegacy).
 
 To open the settings, press **Alt + G** during gameplay.
 
@@ -23,7 +23,7 @@ To open the settings, press **Alt + G** during gameplay.
 
 Requires BigCityLegacy 1.4.2 or later. Both Windows and Linux versions of the game are supported.
 
-Download the plugin archive from Releases and extract it to the game's root directory.
+Download the plugin archive from [Releases](https://github.com/LxgacyTeam/FusionSky/releases) and extract it to the game's root directory.
 
 After extraction, `FusionSky.dll` should be located in `BepInEx\plugins\FusionSky`.
 
